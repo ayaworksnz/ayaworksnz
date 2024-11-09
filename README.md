@@ -2,6 +2,7 @@ i make dumb 3d models and sometimes script
 
 amateur musician and even more amateur musician
 
+~~~
                      .                          
                      M                          
                     dM                          
@@ -25,4 +26,4 @@ amateur musician and even more amateur musician
         *PMMMMMMhn. *x > M  .MMMM**""           
            ""**MMMMhx/.h/ .=*"                  
                     .3P"%....                   
-                  nP"     "*MMnx      
+                  nP"     "*MMnx       ~~~
